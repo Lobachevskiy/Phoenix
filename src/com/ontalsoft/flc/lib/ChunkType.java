@@ -60,7 +60,6 @@ public enum ChunkType {
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getId() {
 		return this.id;
 	}

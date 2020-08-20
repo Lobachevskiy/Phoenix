@@ -19,7 +19,6 @@ public class FLCChunkDeltaFLC extends FLCChunk {
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public byte[] getPayload() {
 		return this.payload;
 	}

@@ -118,301 +118,251 @@ public class FLCHeader {
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int getSize() {
 		return this.size;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setSize(final int size) {
 		this.size = size;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getType() {
 		return this.type;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setType(final short type) {
 		this.type = type;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getFrames() {
 		return this.frames;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setFrames(final short frames) {
 		this.frames = frames;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getWidth() {
 		return this.width;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setWidth(final short width) {
 		this.width = width;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getHeight() {
 		return this.height;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setHeight(final short height) {
 		this.height = height;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getDepth() {
 		return this.depth;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setDepth(final short depth) {
 		this.depth = depth;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getFlags() {
 		return this.flags;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setFlags(final short flags) {
 		this.flags = flags;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int getSpeed() {
 		return this.speed;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setSpeed(final int speed) {
 		this.speed = speed;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getReserved1() {
 		return this.reserved1;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setReserved1(final short reserved1) {
 		this.reserved1 = reserved1;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int getCreated() {
 		return this.created;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setCreated(final int created) {
 		this.created = created;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int getCreator() {
 		return this.creator;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setCreator(final int creator) {
 		this.creator = creator;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int getUpdated() {
 		return this.updated;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setUpdated(final int updated) {
 		this.updated = updated;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int getUpdater() {
 		return this.updater;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setUpdater(final int updater) {
 		this.updater = updater;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getAspectDx() {
 		return this.aspectDx;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setAspectDx(final short aspectDx) {
 		this.aspectDx = aspectDx;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getAspectDy() {
 		return this.aspectDy;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setAspectDy(final short aspectDy) {
 		this.aspectDy = aspectDy;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getExtFlags() {
 		return this.extFlags;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setExtFlags(final short extFlags) {
 		this.extFlags = extFlags;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getKeyframes() {
 		return this.keyframes;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setKeyframes(final short keyframes) {
 		this.keyframes = keyframes;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getTotalframes() {
 		return this.totalframes;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setTotalframes(final short totalframes) {
 		this.totalframes = totalframes;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int getReqMemory() {
 		return this.reqMemory;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setReqMemory(final int reqMemory) {
 		this.reqMemory = reqMemory;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getMaxRegions() {
 		return this.maxRegions;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setMaxRegions(final short maxRegions) {
 		this.maxRegions = maxRegions;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getTranspNum() {
 		return this.transpNum;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setTranspNum(final short transpNum) {
 		this.transpNum = transpNum;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public byte[] getReserved2() {
 		return this.reserved2;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setReserved2(final byte[] reserved2) {
 		this.reserved2 = reserved2;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int getOframe1() {
 		return this.oframe1;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setOframe1(final int oframe1) {
 		this.oframe1 = oframe1;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int getOframe2() {
 		return this.oframe2;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setOframe2(final int oframe2) {
 		this.oframe2 = oframe2;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public byte[] getReserved3() {
 		return this.reserved3;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public void setReserved3(final byte[] reserved3) {
 		this.reserved3 = reserved3;
 	}

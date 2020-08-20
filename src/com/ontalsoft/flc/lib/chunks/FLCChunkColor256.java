@@ -31,7 +31,6 @@ public class FLCChunkColor256 extends FLCChunk {
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public FLCColor[] getColors() {
 		return this.colors;
 	}

@@ -40,7 +40,6 @@ public class FLCChunkByteRun extends FLCChunk {
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int[] getPixelData() {
 		return this.pixelData;
 	}

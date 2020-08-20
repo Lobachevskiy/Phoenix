@@ -22,19 +22,16 @@ public class FLCColor {
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public byte getR() {
 		return this.r;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public byte getG() {
 		return this.g;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public byte getB() {
 		return this.b;
 	}

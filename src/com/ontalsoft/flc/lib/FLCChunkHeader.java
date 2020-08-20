@@ -23,31 +23,26 @@ public class FLCChunkHeader {
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int getSize() {
 		return this.size;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public ChunkType getType() {
 		return this.type;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getSubchunks() {
 		return this.subchunks;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int getReserved1() {
 		return this.reserved1;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int getReserved2() {
 		return this.reserved2;
 	}

@@ -28,31 +28,26 @@ public class FLCChunkFrameType extends FLCChunk {
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getChunks() {
 		return this.chunks;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getDelay() {
 		return this.delay;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getReserved() {
 		return this.reserved;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getWidth() {
 		return this.width;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public short getHeight() {
 		return this.height;
 	}

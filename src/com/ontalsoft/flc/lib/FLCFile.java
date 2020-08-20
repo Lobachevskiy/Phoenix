@@ -57,25 +57,21 @@ public class FLCFile {
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public boolean isShouldLoop() {
 		return this.shouldLoop;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public boolean isPauseAfterFirstFrame() {
 		return this.pauseAfterFirstFrame;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public FLCHeader getHeader() {
 		return this.header;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public BinaryReader getReader() {
 		return this.reader;
 	}

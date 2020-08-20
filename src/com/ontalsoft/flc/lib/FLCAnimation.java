@@ -47,13 +47,11 @@ public class FLCAnimation {
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int getFrameCount() {
 		return this.frameCount;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public int getDelayMs() {
 		return this.delayMs;
 	}

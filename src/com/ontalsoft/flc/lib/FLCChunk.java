@@ -83,13 +83,11 @@ public abstract class FLCChunk {
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public ChunkType getType() {
 		return this.type;
 	}
 
 	@java.lang.SuppressWarnings("all")
-	@javax.annotation.Generated("lombok")
 	public List<FLCChunk> getSubChunks() {
 		return this.subChunks;
 	}
